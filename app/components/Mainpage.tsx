@@ -1,7 +1,5 @@
 import React from 'react'
 import Image from 'next/image'
-import { FaSquareFacebook, FaSquareInstagram } from 'react-icons/fa6'
-import { button } from 'framer-motion/client'
 import { AiFillTikTok } from 'react-icons/ai'
 import { IoLogoInstagram } from 'react-icons/io'
 import { SiShopee } from 'react-icons/si'

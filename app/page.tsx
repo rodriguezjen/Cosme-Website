@@ -1,5 +1,4 @@
 'use client'
-import Image from "next/image";
 import Mainpage from "./components/Mainpage";
 import { Header, Product } from "./components";
 import About from "./components/About";
